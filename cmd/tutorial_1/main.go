@@ -33,7 +33,7 @@ func topKElements(arr []int, k int) []int {
 
 func main() {
 	arr := []int{2, 5, 1, 2, 3, 2, 1, 2, 5, 1}
-	k := 1 //k := 1,  k := 3
+	k := 4 //k := 1,  k := 3
 
 	result := topKElements(arr, k)
 
